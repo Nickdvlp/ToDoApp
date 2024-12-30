@@ -12,4 +12,4 @@ Availability:-
 
 I deployed this application on Netlify. You can use it with following link:- https://humara-noteapp.netlify.app/
 
-I also shared this application on Github. You can check this source code to following link:-
+I also shared this application on Github. You can check this source code to following link:- https://github.com/Nickdvlp/ToDoApp
